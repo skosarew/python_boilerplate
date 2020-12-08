@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Evgeny Skosarev <skosarew@mail.ru>
+* Mr Smith
 
 Contributors
 ------------
